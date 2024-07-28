@@ -1,24 +1,24 @@
 /* Write your CSS here */
 .todolist-item {
-    list-style-type: none;
-    margin: 20px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+  list-style-type: none;
+  margin: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
-.title{
-    color: #000000;
-    font-size: 20px;
-    font-family: 'Roboto';
-    margin: 15px 0;
+.title {
+  color: #000000;
+  font-size: 20px;
+  font-family: 'Roboto';
+  margin: 15px 0;
 }
-.delete-button{
-    margin-left:50px;
-    background-color: transparent;
-    border: 2px solid #ff0b37;
-    font-size: 20px;
-    font-family: 'Roboto';
-    color: #ff0b37;
-    padding: 8px 22px;
-    border-radius: 8px;
+.delete-button {
+  margin-left: 50px;
+  background-color: transparent;
+  border: 2px solid #ff0b37;
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #ff0b37;
+  padding: 8px 22px;
+  border-radius: 8px;
 }
